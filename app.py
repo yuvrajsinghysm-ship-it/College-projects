@@ -13,7 +13,7 @@ warnings.filterwarnings("ignore")
 
 # SECURITY NOTE: In a real project, never hardcode your API key.
 # Use: os.getenv("GOOGLE_API_KEY")
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCgqM3dvPXBeDn2lTEkl8UpSof6jk3WAWQ"
+os.environ["GOOGLE_API_KEY"] = "USE YOUR OWN API KEY"
 
 # --- 2. GEMINI SETUP (Modern LCEL Syntax) ---
 try:
@@ -129,4 +129,5 @@ def get_results_html(description, resume):
     """
 
 if __name__ == '__main__':
+
     app.run(debug=True)
