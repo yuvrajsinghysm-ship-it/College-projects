@@ -1,0 +1,15 @@
+Hello there!
+This project is made by Yuvraj Singh with the help of Google Gemini
+
+Name of the project is "Resume Builder"
+The project contains code in python along with some HTML(for webpage preview) 
+
+How to use:
+1. First of all run the code to check if there is any error or bug.
+2. Then at the terminal, it will show a message that the flask is running and go to this address to check the project, is you are using VS code then just ctrl + click on the address.
+3. Now you will be redirected to the webpage.
+4. Fill in the necessary description about yourself and click on generate resume.
+5. And finally the resume will be made which you can copy and paste wherever you want it.
+
+
+MAKE SURE TO USE YOUR OWN API KEY!!!
